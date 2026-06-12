@@ -154,3 +154,201 @@ Built a complete sentiment analytics pipeline that helps organizations understan
 </details>
 
 ---
+<details>
+<summary><b>Business Analytics Dashboard</b></summary>
+
+### Project Overview
+
+Interactive business intelligence platform designed to transform raw business data into actionable executive insights.
+
+| Metric | Value |
+|---------|--------|
+| Stack | Python, SQL, Power BI |
+| Scale | Multi-Department Analytics |
+| Performance | Real-Time KPI Monitoring |
+| Security | Authentication Enabled |
+| Impact | Executive Decision Support |
+| Repository | Coming Soon |
+
+#### Professional Summary
+
+Designed and developed scalable dashboards for business performance monitoring, customer analytics, and operational reporting.
+
+</details>
+
+<details>
+<summary><b>Phishing Detection System</b></summary>
+
+### Project Overview
+
+Machine learning-powered cybersecurity platform focused on phishing detection and threat classification.
+
+| Metric | Value |
+|---------|--------|
+| Stack | Python, Machine Learning, Cybersecurity |
+| Scale | Enterprise Security Dataset |
+| Performance | High Detection Accuracy |
+| Security | Secure Threat Analysis |
+| Impact | Risk Reduction |
+| Repository | Coming Soon |
+
+#### Professional Summary
+
+Built intelligent threat detection workflows to identify phishing attacks and support organizational cybersecurity awareness.
+
+</details>
+
+---
+
+# Experience
+
+## Data Analytics Specialist — Deloitte Australia (Forage)
+
+**Virtual Experience Program**
+
+Professional experience focused on forensic data analytics and business intelligence methodologies.
+
+### Scope of Work
+
+- Analyzed structured datasets using forensic analytics workflows
+- Generated actionable business insights
+- Applied data investigation methodologies
+- Created analytical reports for stakeholders
+
+**Skills**
+
+`Data Analytics`
+`Business Intelligence`
+`Excel`
+`Data Visualization`
+`Data Interpretation`
+
+---
+
+## Data Science Analyst — British Airways (Forage)
+
+**Virtual Experience Program**
+
+Worked on customer behavior analytics and predictive modeling initiatives.
+
+### Scope of Work
+
+- Conducted customer sentiment analysis
+- Built machine learning prediction models
+- Evaluated purchasing behavior trends
+- Generated business recommendations
+
+**Skills**
+
+`Machine Learning`
+`Python`
+`Data Science`
+`Predictive Analytics`
+`Statistical Analysis`
+
+---
+
+## Cybersecurity Analyst — Mastercard (Forage)
+
+**Virtual Experience Program**
+
+Focused on cyber threat detection and security awareness strategies.
+
+### Scope of Work
+
+- Identified phishing attack vectors
+- Conducted security risk assessments
+- Developed awareness training solutions
+- Evaluated security vulnerabilities
+
+**Skills**
+
+`Cybersecurity`
+`Threat Intelligence`
+`Risk Assessment`
+`Security Awareness`
+
+---
+
+## AI Solutions Consultant — Datacom (Forage)
+
+**Virtual Experience Program**
+
+Evaluated enterprise AI adoption strategies and responsible AI frameworks.
+
+### Scope of Work
+
+- Assessed AI implementation opportunities
+- Developed enterprise AI recommendations
+- Evaluated responsible AI practices
+- Designed AI deployment roadmaps
+
+**Skills**
+
+`Artificial Intelligence`
+`Prompt Engineering`
+`AI Strategy`
+`Business Transformation`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| Academic Excellence | Distinction Across All Semesters of B.Sc. AI/ML |
+| Higher Secondary Education | 90.85% Score |
+| Secondary Education | 91.00% Score |
+| Professional Certifications | Deloitte, British Airways, Mastercard & Datacom |
+| Technical Excellence | AI, Machine Learning, Data Analytics & Cybersecurity |
+| Continuous Learning | Active Learner of Emerging Technologies |
+
+</div>
+
+---
+
+# Certifications
+
+## Deloitte Australia
+
+![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics-6D28D9?style=for-the-badge)
+
+## British Airways
+
+![BritishAirways](https://img.shields.io/badge/British%20Airways-Data%20Science-7C3AED?style=for-the-badge)
+
+## Mastercard
+
+![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity-8B5CF6?style=for-the-badge)
+
+## Datacom
+
+![Datacom](https://img.shields.io/badge/Datacom-AI%20in%20the%20Workplace-4C1D95?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Programming%20Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
