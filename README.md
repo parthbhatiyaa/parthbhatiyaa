@@ -352,3 +352,112 @@ Evaluated enterprise AI adoption strategies and responsible AI frameworks.
 </div>
 
 ---
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthbhatiyaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhatiyaa&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhatiyaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=parthbhatiyaa&theme=algolia&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthbhatiyaa&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced Machine Learning
+  - Deep Learning Architectures
+  - Natural Language Processing
+  - MLOps & Deployment
+
+building:
+  - AI Resume Screening System
+  - Customer Sentiment Analysis Platform
+  - Business Analytics Dashboard
+  - Phishing Detection System
+
+exploring:
+  - Generative AI
+  - Agentic AI Systems
+  - Cloud Technologies
+  - Open Source Contributions
+
+open_to:
+  - AI Engineer Roles
+  - Machine Learning Engineer Roles
+  - Data Analyst Roles
+  - Data Scientist Roles
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:bhatiyaparth3636@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-bhatiyaparth3636%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/parthbhatiyaaa">
+<img src="https://img.shields.io/badge/LinkedIn-PARTHKUMAR%20BHATIYA-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/parthbhatiyaa">
+<img src="https://img.shields.io/badge/GitHub-parthbhatiyaa-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Engineering Intelligent Systems That Transform Data Into Business Impact
+
+</div>
+
+---
+
+<div align="center">
+
+*"Artificial Intelligence is most powerful when combined with strong engineering, meaningful data, and real-world problem solving."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
