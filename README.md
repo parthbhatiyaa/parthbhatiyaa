@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ParthBhatiya">
+<a href="https://github.com/parthbhatiyaa">
 <img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
